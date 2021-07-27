@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
+    <loc>/BITS-training-dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="/BITS-training-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/BITS-training-dev/en/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>/BITS-training-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/categories/"
+                href="/BITS-training-dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/BITS-training-dev/en/categories/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>/BITS-training-dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/tags/"
+                href="/BITS-training-dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/BITS-training-dev/en/tags/"
                 />
   </url>
 </urlset>
