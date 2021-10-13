@@ -1,41 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/BITS-training-dev/en/</loc>
+    <loc>//bits-training.de/BITS-training-dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/BITS-training-dev/"
+                href="//bits-training.de/BITS-training-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/BITS-training-dev/en/"
+                href="//bits-training.de/BITS-training-dev/en/"
                 />
-  </url><url>
-    <loc>/BITS-training-dev/en/categories/</loc>
+  </url>
+  <url>
+    <loc>//bits-training.de/BITS-training-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/BITS-training-dev/categories/"
+                href="//bits-training.de/BITS-training-dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/BITS-training-dev/en/categories/"
+                href="//bits-training.de/BITS-training-dev/en/categories/"
                 />
-  </url><url>
-    <loc>/BITS-training-dev/en/tags/</loc>
+  </url>
+  <url>
+    <loc>//bits-training.de/BITS-training-dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/BITS-training-dev/tags/"
+                href="//bits-training.de/BITS-training-dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/BITS-training-dev/en/tags/"
+                href="//bits-training.de/BITS-training-dev/en/tags/"
                 />
   </url>
 </urlset>

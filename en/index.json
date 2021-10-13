@@ -1,22 +1,23 @@
 [
-{
-	"uri": "/BITS-training-dev/en/",
-	"title": "BITS | IT security training for public authorities",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "/BITS-training-dev/en/categories/",
-	"title": "Categories",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "/BITS-training-dev/en/tags/",
-	"title": "Tags",
-	"tags": [],
-	"description": "",
-	"content": ""
-}]
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "BITS | IT security training for public authorities",
+    "uri": "/BITS-training-dev/en/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/BITS-training-dev/en/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/BITS-training-dev/en/tags/"
+  }
+]
