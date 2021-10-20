@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//bits-training.de/BITS-training-dev/en/</loc>
+    <loc>/BITS-training-dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//bits-training.de/BITS-training-dev/"
+                href="/BITS-training-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//bits-training.de/BITS-training-dev/en/"
+                href="/BITS-training-dev/en/"
                 />
   </url>
   <url>
-    <loc>//bits-training.de/BITS-training-dev/en/categories/</loc>
+    <loc>/BITS-training-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//bits-training.de/BITS-training-dev/categories/"
+                href="/BITS-training-dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//bits-training.de/BITS-training-dev/en/categories/"
+                href="/BITS-training-dev/en/categories/"
                 />
   </url>
   <url>
-    <loc>//bits-training.de/BITS-training-dev/en/tags/</loc>
+    <loc>/BITS-training-dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//bits-training.de/BITS-training-dev/tags/"
+                href="/BITS-training-dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//bits-training.de/BITS-training-dev/en/tags/"
+                href="/BITS-training-dev/en/tags/"
                 />
   </url>
 </urlset>
