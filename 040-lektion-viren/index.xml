@@ -26,16 +26,13 @@
     </item>
     <item>
       <title>Mögliche Schäden durch Virenbefall</title>
-      <link>https://www.bits-training.de/BITS-training-dev/040-lektion-viren/03.m%C3%B6gliche-sch%C3%A4den-durch-virenbefall/</link>
+      <link>https://www.bits-training.de/BITS-training-dev/040-lektion-viren/03.moegliche-schaeden-durch-virenbefall/</link>
       <pubDate>Sat, 06 Mar 2021 09:28:25 +0000</pubDate>
-      <guid>https://www.bits-training.de/BITS-training-dev/040-lektion-viren/03.m%C3%B6gliche-sch%C3%A4den-durch-virenbefall/</guid>
+      <guid>https://www.bits-training.de/BITS-training-dev/040-lektion-viren/03.moegliche-schaeden-durch-virenbefall/</guid>
       <description>Je nach Virus sehen die verursachten Schäden sehr unterschiedlich aus.
 Früher war das Hauptangriffsziel die Störung der Systemfunktionen, z.B. durch:
  Verbrauch von Systemressourcen wie Plattenplatz oder Leitungskapazitäten Verringerung der Systemleistung Verändern oder Löschen von Systemdateien  Heute sind die Ziele:
-  Versand von Spam-Nachrichten über Ihren Rechner
-  Verschlüsselung und anschließende Erpressung (&amp;ldquo;Ransom-Ware&amp;rdquo;)
-  Heimliches Ausnutzung der Rechenleistung (&amp;ldquo;Crypto-Jacking&amp;rdquo;)
-  Einbindung Ihres Rechners in ein Netzwerk für Angriffe auf Dritte (z.</description>
+ Versand von Spam-Nachrichten über Ihren Rechner Verschlüsselung und anschließende Erpressung (&amp;ldquo;Ransom-Ware&amp;rdquo;) Heimliches Ausnutzung der Rechenleistung (&amp;ldquo;Crypto-Jacking&amp;rdquo;) Einbindung Ihres Rechners in ein Netzwerk für Angriffe auf Dritte (z.B. für &amp;ldquo;Denial of Service-Angriffe&amp;rdquo;)  Häufig geht es aber auch um das Ausspionieren von Daten.</description>
     </item>
     <item>
       <title>Infektionswege</title>
@@ -52,8 +49,7 @@ Früher war das Hauptangriffsziel die Störung der Systemfunktionen, z.B. durch:
       <guid>https://www.bits-training.de/BITS-training-dev/040-lektion-viren/05.risiken-und-schaeden/</guid>
       <description>Gefahren steigen mit dem Anschluss ans Internet Bei jedem Computer, der Zugang zum Internet hat, besteht die Gefahr eines Virenbefalls. Mit der steigenden Nutzung von Rechnern als Kommunikationsmedium steigt auch die Virengefahr. Sobald ein Internetanschluss vorliegt, liegt die Wahrscheinlichkeit eines Virenangriffs bei 100%.
 Der drohende Schaden kann beträchtlich sein:
-  Werden durch einen Virenbefall Daten zerstört, so entstehen Ihrer Behörde oder Einrichtung gegebenenfalls hohe Aufwände bei der Wiederherstellung.
-  Gelangen ausspionierte Daten an die Öffentlichkeit, so können Ihrer Behörde oder Einrichtung Ansehens- und Vertrauensschäden entstehen, von Datenschutzverstößen ganz zu schweigen.</description>
+ Werden durch einen Virenbefall Daten zerstört, so entstehen Ihrer Behörde oder Einrichtung gegebenenfalls hohe Aufwände bei der Wiederherstellung. Gelangen ausspionierte Daten an die Öffentlichkeit, so können Ihrer Behörde oder Einrichtung Ansehens- und Vertrauensschäden entstehen, von Datenschutzverstößen ganz zu schweigen.</description>
     </item>
     <item>
       <title>Vorbeugemaßnahmen</title>
