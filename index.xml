@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Startseite on BITS | Behörden-IT-Sicherheitstraining</title>
+    <title>Start on BITS | Behörden-IT-Sicherheitstraining</title>
     <link>https://www.bits-training.de/BITS-training-dev/</link>
-    <description>Recent content in Startseite on BITS | Behörden-IT-Sicherheitstraining</description>
+    <description>Recent content in Start on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 18 Apr 2021 14:18:09 +0200</lastBuildDate><atom:link href="https://www.bits-training.de/BITS-training-dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Start</title>
-      <link>https://www.bits-training.de/BITS-training-dev/010-start/</link>
-      <pubDate>Sat, 06 Mar 2021 09:11:59 +0000</pubDate>
-      <guid>https://www.bits-training.de/BITS-training-dev/010-start/</guid>
-      <description>BITS 6.0-dev Sicherheit entsteht – wenn alle mitmachen! Das Sicherheitstraining BITS ist konzipiert für  Behörden und Einrichtungen, die ihre Beschäftigten im sicheren Umgang mit dem Computer und dem Internet sensibilisieren wollen die Beschäftigten von Behörden und Einrichtungen, die sich auch über die private sichere Nutzung von Computer und Internet informieren wollen  Die Leitung Ihrer Behörde oder Einrichtung trägt die Verantwortung für die Informationssicherheit. Dieser Verantwortung kann sie jedoch nur gerecht werden, wenn alle Beschäftigten aufmerksam arbeiten und wissen, welche Gefahren die IT-Nutzung mit sich bringt und wie man diesen angemessen begegnet.</description>
-    </item>
+    <lastBuildDate>Sat, 06 Mar 2021 09:11:59 +0000</lastBuildDate><atom:link href="https://www.bits-training.de/BITS-training-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einleitung</title>
       <link>https://www.bits-training.de/BITS-training-dev/020-einleitung/</link>

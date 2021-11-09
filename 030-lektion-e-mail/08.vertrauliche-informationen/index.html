@@ -24,15 +24,20 @@
         display:none !important;
       }
     </style>
-<meta name="date" content="04 Nov 21 00:13 CET">
+<meta name="date" content="09 Nov 21 22:12 CET">
 
 
   </head>
   <body class="" data-url="../../030-lektion-e-mail/08.vertrauliche-informationen/">
+    <script>
+      var index_url="../../index.json";
+      var root_url="../../";
+      var baseUri=root_url.replace(/\/$/, '');
+    </script>
     <nav id="sidebar" class="showVisitedLinks">
       <div id="header-wrapper">
         <div id="header">
-<a id="logo" href="../../010-start/">
+<a id="logo" href="../../">
   <img src="../../images/logo.jpg" alt="BITS Logo" title="BITS Logo">
 </a>
 
@@ -46,16 +51,10 @@
         <script src="../../js/auto-complete.js"></script>
         <!-- hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic: -->
         <!-- https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72 -->
-        <script>
-          var index_url="../../index.json";
-          var root_url="../../";
-          var baseUri=root_url.replace(/\/$/, '');
-        </script>
         <script src="../../js/search.js"></script>
       </div>
       <div class="highlightable">
         <ul class="topics">
-          <li data-nav-id="/010-start/" title="Start" class="dd-item"><a href="../../010-start/">Start<i class="fas fa-check read-icon"></i></a><ul></ul></li>
           <li data-nav-id="/020-einleitung/" title="Einleitung" class="dd-item"><a href="../../020-einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a><ul></ul></li>
           <li data-nav-id="/030-lektion-e-mail/" title="Lektion Sicherer Umgang mit E-Mails" class="dd-item parent"><a href="../../030-lektion-e-mail/"><b>1. </b>Lektion E-Mails<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/030-lektion-e-mail/01.was-sind-emails/" title="Was sind E-Mails?" class="dd-item"><a href="../../030-lektion-e-mail/01.was-sind-emails/">Was sind E-Mails?<i class="fas fa-check read-icon"></i></a></li>
@@ -168,9 +167,12 @@
                 <i class="fas fa-bars"></i>
               </a>
             </span>
-            <span class="links">
-              Vertrauliche Informationen
-            </span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <meta itemprop="itemListOrder" content="Descending" />
+                <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="3" /><a itemprop="item" href="../../"><span itemprop="name">Start</span></a> > </li>
+                <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="../../030-lektion-e-mail/"><span itemprop="name">Lektion Sicherer Umgang mit E-Mails</span></a> > </li>
+                <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="../../030-lektion-e-mail/08.vertrauliche-informationen/" aria-disabled="true"><span itemprop="name">Vertrauliche Informationen</span></a></li>
+            </ol>
           </div>
         </div>
         <div id="head-tags">
@@ -221,6 +223,12 @@
     <script src="../../js/jquery.svg.pan.zoom.js"></script>
     <script src="../../js/featherlight.min.js"></script>
     <script src="../../js/modernizr.custom-3.6.0.js"></script>
+    <script src="../../js/mermaid.min.js"></script>
+    <script>
+      if (typeof mermaid != 'undefined' && typeof mermaid.mermaidAPI != 'undefined') {
+        mermaid.mermaidAPI.initialize( Object.assign( { "securityLevel": "antiscript" }, JSON.parse("{ \"startOnLoad\": true }"), { startOnLoad: false } ) );
+      }
+    </script>
     <script src="../../js/relearn.js"></script>
   </body>
 </html>

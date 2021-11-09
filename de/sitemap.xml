@@ -33,8 +33,18 @@
     <lastmod>2021-03-06T09:15:44+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bits-training.de/BITS-training-dev/010-start/</loc>
+    <loc>https://www.bits-training.de/BITS-training-dev/</loc>
     <lastmod>2021-03-06T09:11:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bits-training.de/BITS-training-dev/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.bits-training.de/BITS-training-dev/"
+                />
   </url>
   <url>
     <loc>https://www.bits-training.de/BITS-training-dev/030-lektion-e-mail/01.was-sind-emails/</loc>
@@ -340,20 +350,6 @@
   <url>
     <loc>https://www.bits-training.de/BITS-training-dev/040-lektion-viren/90.quiz-viren/</loc>
     <lastmod>2021-03-13T04:15:44+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bits-training.de/BITS-training-dev/</loc>
-    <lastmod>2021-04-18T14:18:09+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bits-training.de/BITS-training-dev/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.bits-training.de/BITS-training-dev/"
-                />
   </url>
   <url>
     <loc>https://www.bits-training.de/BITS-training-dev/categories/</loc>
